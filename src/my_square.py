@@ -1,6 +1,6 @@
-def my_square (x):
+def my_square (z):
 	"""takes a value and returns the square value"""
 	
 	"""uses the ** operator"""
-	return(x **2)
-print(my square(4))
+	return(z **2)
+print(my square(24))
