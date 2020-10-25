@@ -3,4 +3,5 @@ def my_square (y):
 	
 	"""uses the ** operator"""
 	return(y **2)
+
 print(my square(42))
